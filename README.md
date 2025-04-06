@@ -5,6 +5,7 @@ Made by Elii Lopez and Jesus Aguilera for the 2025 DS3 DataHacks competition.
 
 This project was built for the 2025 DS3 DataHacks competition with the goal of predicting a movie's average rating (1–10) based on user-inputted characteristics such as director, genre, and runtime. We also explored trends in movie ratings and profitability to uncover what makes a film successful or highly rated.
 
+
 📊 Project Goals
 
 Predict a movie's average rating based on input features.
@@ -108,5 +109,13 @@ Incorporate more features: cast, release year, production company.
 Use advanced models like Random Forest or XGBoost.
 
 Build a web-based UI to let users try predictions live.
+
+Datasets Used
+
+We combined and analyzed two Kaggle datasets:
+
+TMDb Movies Dataset 2023 (930K+ Movies)
+
+Movies Dataset
 
 Thanks for checking out our project!
